@@ -1,0 +1,15 @@
+{
+  "ignition": {
+    "version": "3.1.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "name": "core",
+        "sshAuthorizedKeys": [
+          "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINFH0xl0uQB+bBeR4liVNO1nkruRKKdo+kUFemTML4rK sebastian.gabbert@insitu.de - MW Laptop"
+        ]
+      }
+    ]
+  }
+}
